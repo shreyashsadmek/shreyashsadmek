@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyashsadmek
-- 👀 I’m an engineer at Rajarambapu Institute of Technology
+- 👀 I’m an engineering student at Rajarambapu Institute of Technology
 - 🌱 I’m currently learning JavaScript
 - 📫 Here's how to reach me, shreyashsadmek@gmail.com
   
