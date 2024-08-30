@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyashsadmek
 - 👀 I’m an engineer at Rajarambapu Institute of Technology
-- 🌱 I’m currently learning React and JS
+- 🌱 I’m currently learning JavaScript
 - 📫 Here's how to reach me, shreyashsadmek@gmail.com
   
 
