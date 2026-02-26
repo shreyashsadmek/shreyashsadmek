@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyashsadmek
-- 👀 I’m an engineering student at Rajarambapu Institute of Technology
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m an post-grad engineering student at Veermata Jijabai Technological Institute, Mumbai.
+- 💻 MERN Stack Developer.
 - 📫 Here's how to reach me, shreyashsadmek@gmail.com
   
 
